@@ -9,3 +9,11 @@
 - Alert
 - Console.log
 - Diferencia entre =, ==, === (Operador Estricto)
+
+# Clase 2
+ - Operadores Lógicos
+ - Switch
+ - For
+ - While
+ 
+
