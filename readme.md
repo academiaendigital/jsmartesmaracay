@@ -15,5 +15,15 @@
  - Switch
  - For
  - While
- 
+  
+# Clase 3
+- Funciones
+- Tipo de Funciones
+- Parametros Rest- Spread
+- Alerts
+- Promts
+- Incrmentar -Decrementar
+- Operador Estrictor
+- InnerHTML para imprimir en pantalla e imprimir en consola con funciones ejercicios de la calculador
+
 
