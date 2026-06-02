@@ -25,5 +25,10 @@
 - Incrmentar -Decrementar
 - Operador Estrictor
 - InnerHTML para imprimir en pantalla e imprimir en consola con funciones ejercicios de la calculador
-
+# Clase 4
+-  ARRAYS
+-  Tipos de Funciones
+-  Objetos
+-  Ejercito del Carrito
+-  Metódos - Rapido
 
