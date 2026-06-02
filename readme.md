@@ -31,4 +31,6 @@
 -  Objetos
 -  Ejercito del Carrito
 -  Metódos - Rapido
+# CLASE 5
+- Ejercicios de Desarrollo de Lógica 
 
