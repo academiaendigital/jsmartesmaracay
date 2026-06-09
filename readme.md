@@ -1,5 +1,7 @@
 # MODULO DE JAVASCRIT
+
 ## Clase 1
+
 - Introduccion a JavaScript
 - Variables LET-VAR-CONST
 - Sintaxis CamelCase- Tipo
@@ -11,12 +13,14 @@
 - Diferencia entre =, ==, === (Operador Estricto)
 
 # Clase 2
- - Operadores Lógicos
- - Switch
- - For
- - While
-  
+
+- Operadores Lógicos
+- Switch
+- For
+- While
+
 # Clase 3
+
 - Funciones
 - Tipo de Funciones
 - Parametros Rest- Spread
@@ -25,12 +29,24 @@
 - Incrmentar -Decrementar
 - Operador Estrictor
 - InnerHTML para imprimir en pantalla e imprimir en consola con funciones ejercicios de la calculador
-# Clase 4
--  ARRAYS
--  Tipos de Funciones
--  Objetos
--  Ejercito del Carrito
--  Metódos - Rapido
-# CLASE 5
-- Ejercicios de Desarrollo de Lógica 
 
+# Clase 4
+
+- ARRAYS
+- Tipos de Funciones
+- Objetos
+- Ejercito del Carrito
+- Metódos - Rapido
+
+# CLASE 5
+
+- Ejercicios de Desarrollo de Lógica
+
+# CLASE 6
+
+- Objetos Json
+- Local Storage
+
+# CLASE 7
+
+- Eventos
