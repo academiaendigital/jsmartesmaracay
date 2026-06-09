@@ -47,6 +47,15 @@
 - Objetos Json
 - Local Storage
 
+## Tienen tareas pendientes:https://canva.link/lueyzf3x1if7so4
+
+## Material de Apoyo
+
+https://canva.link/localstorage
+
 # CLASE 7
 
+## NOTA PEVISAR LAS TAREAS PENDIENTED
+
 - Eventos
+- Consumir una Api
