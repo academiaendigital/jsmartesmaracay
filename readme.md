@@ -59,3 +59,7 @@ https://canva.link/localstorage
 
 - Eventos
 - Consumir una Api
+
+# CLASE 8
+
+VALIDACIÓN DE FORMULARIOS
